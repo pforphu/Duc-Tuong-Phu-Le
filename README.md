@@ -22,31 +22,65 @@ I am currently maintaining a GPA of 81/100 and have earned the Microsoft Power B
 ---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://pforphu.github.io/)
+### [🏆 Check Out My Full Portfolio Website]([https://pforphu.github.io/])
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project Business Sales Analysis - Power BI:** [Built an interactive dashboard to monitor business health, analyze marketing campaign performance, track inventory levels, and manage product portfolio performance]
----
-Link: https://github.com/pforphu/Business-Analyst---Power-BI-
+<h3>Business Sales Analysis - Power BI</h3>
 
-<img src="Pics/Summary.png" width="550" alt="Business Analysis" style="margin-left:-20px;">
+<p>
+Built an interactive dashboard to monitor business health, analyze marketing campaign performance,
+track inventory levels, and manage product portfolio performance.
+</p>
 
----
-- **Project HR Analysis - Power BI:** [Developed HR dashboards to analyze workforce trends, employee retention, turnover rates, and key people metrics for management decision-making.]
----
-Link: https://github.com/pforphu/HR-Analysis---Power-BI-
+<p>
+<a href="https://github.com/pforphu/Business-Analyst---Power-BI-" target="_blank">
+View Project on GitHub →
+</a>
+</p>
 
-<img src="Pics/Overview.png" width="550" alt="HR Analysis" style="margin-left:-20px;">
----
+<img src="Pics/Summary.png" width="550" alt="Business Analysis">
 
----
-- **Project E-Commerce SQL Project:** [Used SQL to clean, transform, and analyze e-commerce data, generating insights into customer behavior, sales performance, and business operations.]
----
-Link: https://github.com/pforphu/E-Commerce-SQL-Project
+<hr>
 
----
-- **South Australia Incident Analysis - Python:** [Analyzed South Australia incident data from 2022–2026 using Python to identify trends, risk patterns, and key factors affecting public safety.]
+<h3>HR Analysis - Power BI</h3>
+
+<p>
+Developed HR dashboards to analyze workforce trends, employee retention,
+turnover rates, and key people metrics for management decision-making.
+</p>
+
+<p>
+<a href="https://github.com/pforphu/HR-Analysis---Power-BI-" target="_blank">
+View Project on GitHub →
+</a>
+</p>
+
+<img src="Pics/Overview.png" width="550" alt="HR Analysis">
+
+<hr>
+
+<h3>E-Commerce SQL Project</h3>
+
+<p>
+Used SQL to clean, transform, and analyze e-commerce data, generating insights into customer behavior,
+sales performance, and business operations.
+</p>
+
+<p>
+<a href="https://github.com/pforphu/E-Commerce-SQL-Project" target="_blank">
+View Project on GitHub →
+</a>
+</p>
+
+<hr>
+
+<h3>South Australia Incident Analysis - Python</h3>
+
+<p>
+Analyzed South Australia incident data from 2022-2026 using Python to identify trends,
+risk patterns, and factors affecting public safety.
+</p>
 
 ## 🌱 Currently Learning 
 
