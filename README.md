@@ -1,4 +1,4 @@
-## Hi there, I'm Duc Tuong Phu Le
+## I'm Duc Tuong Phu Le
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -17,15 +17,35 @@
 I'm a student following data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 I am currently maintaining a GPA of 81/100 and have earned the Microsoft Power BI Data Analyst Associate (PL-300) certification, demonstrating my proficiency in data modeling, visualization, and business intelligence.
+---
+<img src="Pics/PL300.png" width="550" alt="PL300" style="margin-left:-20px;">
+---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://pforphu.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project Business Sales Analysis - Power BI:** [Built an interactive dashboard to monitor business health, analyze marketing campaign performance, track inventory levels, and manage product portfolio performance]  
+- **Project Business Sales Analysis - Power BI:** [Built an interactive dashboard to monitor business health, analyze marketing campaign performance, track inventory levels, and manage product portfolio performance]
+---
+Link: https://github.com/pforphu/Business-Analyst---Power-BI-
+
+<img src="Pics/Summary.png" width="550" alt="Business Analysis" style="margin-left:-20px;">
+
+---
 - **Project HR Analysis - Power BI:** [Developed HR dashboards to analyze workforce trends, employee retention, turnover rates, and key people metrics for management decision-making.]
+---
+Link: https://github.com/pforphu/HR-Analysis---Power-BI-
+
+<img src="Pics/Overview.png" width="550" alt="HR Analysis" style="margin-left:-20px;">
+---
+
+---
 - **Project E-Commerce SQL Project:** [Used SQL to clean, transform, and analyze e-commerce data, generating insights into customer behavior, sales performance, and business operations.]
+---
+Link: https://github.com/pforphu/E-Commerce-SQL-Project
+
+---
 - **South Australia Incident Analysis - Python:** [Analyzed South Australia incident data from 2022–2026 using Python to identify trends, risk patterns, and key factors affecting public safety.]
 
 ## 🌱 Currently Learning 
