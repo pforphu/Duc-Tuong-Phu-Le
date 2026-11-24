@@ -22,7 +22,7 @@ I am currently maintaining a GPA of 81/100 and have earned the Microsoft Power B
 ---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://pforphu.github.io/])
+### 🏆 [Check Out My Full Portfolio Website](https://pforphu.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
