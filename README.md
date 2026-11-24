@@ -16,18 +16,17 @@
 ## 🚀 About Me 
 I'm a student following data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy learning and updating technological skills and knowledge, ensuring I am still on the right track of industry
+I am currently maintaining a GPA of 81/100 and have earned the Microsoft Power BI Data Analyst Associate (PL-300) certification, demonstrating my proficiency in data modeling, visualization, and business intelligence.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://pforphu.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project Business Sales Analysis - Power BI:** [Built an interactive dashboard to monitor business health, analyze marketing campaign performance, track inventory levels, and manage product portfolio performance]  
+- **Project HR Analysis - Power BI:** [Developed HR dashboards to analyze workforce trends, employee retention, turnover rates, and key people metrics for management decision-making.]
+- **Project E-Commerce SQL Project:** [Used SQL to clean, transform, and analyze e-commerce data, generating insights into customer behavior, sales performance, and business operations.]
+- **South Australia Incident Analysis - Python:** [Analyzed South Australia incident data from 2022–2026 using Python to identify trends, risk patterns, and key factors affecting public safety.]
 
 ## 🌱 Currently Learning 
 
