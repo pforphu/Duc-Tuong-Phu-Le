@@ -82,11 +82,6 @@ Analyzed South Australia incident data from 2022-2026 using Python to identify t
 risk patterns, and factors affecting public safety.
 </p>
 
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
