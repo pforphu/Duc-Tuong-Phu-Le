@@ -14,11 +14,16 @@
 </p>
 
 ## 🚀 About Me 
+<p>
 I'm a student pursuing a Data Analyst career and passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+</p>
 
-I am currently maintaining a GPA of **81/100** and have earned the **Microsoft Power BI Data Analyst Associate (PL-300)** certification, demonstrating my proficiency in data modeling, visualization, and business intelligence.
+<p>
+I am currently maintaining a GPA of <strong>81/100</strong> and have earned the <strong>Microsoft Power BI Data Analyst Associate (PL-300)</strong> certification, demonstrating my proficiency in data modeling, visualization, and business intelligence.
+</p>
 ---
 <img src="Pics/PL300.png" width="550" alt="PL300" style="margin-left:-20px;">
+
 ---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
